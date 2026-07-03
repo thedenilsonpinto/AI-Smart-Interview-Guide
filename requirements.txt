@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+streamlit-mic-recorder
+SpeechRecognition
+gTTS
+pygame
+PyPDF2
+fpdf
+plotly
+pandas
+numpy
+Pillow
+python-dotenv

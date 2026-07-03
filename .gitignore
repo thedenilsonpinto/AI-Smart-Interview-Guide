@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Audio Files
+*.mp3
+*.wav
+
+# PDF Reports
+Interview_Report.pdf
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
