@@ -3,6 +3,7 @@ google-generativeai
 streamlit-mic-recorder
 SpeechRecognition
 gTTS
+edge-tts
 PyPDF2
 fpdf2
 plotly
