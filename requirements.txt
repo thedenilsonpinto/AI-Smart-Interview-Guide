@@ -4,7 +4,7 @@ streamlit-mic-recorder
 SpeechRecognition
 gTTS
 PyPDF2
-fpdf
+fpdf2
 plotly
 pandas
 numpy
